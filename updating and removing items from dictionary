@@ -1,0 +1,5 @@
+sample_dict = {"java" : 1, "python" : 2, "nodejs" : 3}
+sample_dict.update( nodejs = 2 )
+print(sample_dict)
+sample_dict.update( python = 3 )
+print(sample_dict)
