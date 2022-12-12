@@ -1,0 +1,10 @@
+my_list = ['Siya', 'Tiya', 'Guru', 'Daksh', 'Riya', 'Guru'] 
+
+for i in range(len(my_list)):
+    print(my_list[i])
+    if my_list[i] == 'Guru':
+        print('Found the name Guru')
+        break
+        print('After break statement')
+
+print('Loop is Terminated')
