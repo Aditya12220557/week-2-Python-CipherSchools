@@ -1,0 +1,8 @@
+def multiple():
+    operation = "Sum" 
+    total = 5+10
+    return [operation, total];
+
+values = multiple()
+
+print(values)
