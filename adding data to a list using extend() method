@@ -1,0 +1,8 @@
+teams = [
+  "Jaguars",
+  "Colts",
+  "Titans"
+]
+teams.extend(["Texans", "Eagles"])
+print(teams)
+# ['Jaguars', 'Colts', 'Titans', 'Texans', 'Eagles']
