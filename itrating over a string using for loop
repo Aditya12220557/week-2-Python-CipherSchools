@@ -1,0 +1,4 @@
+t = 'World'
+
+for i in range(len(t)):
+    print(t[i])
